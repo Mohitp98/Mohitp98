@@ -10,22 +10,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :metal: Hi there,
-I am a software engineer👨‍💻 from India :india:.
-
-Interested in making life easier by creating utility tools. 
-
+<p align="center">
+I am a software engineer👨‍💻 from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+</p>
+<p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
+</p>
+
+**💼 I'm currently working as:**
+
+Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab</b></a>
+
+**🌱 I’m currently working on:**
+
+<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>  
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
+
+
+**💬 Ask me about:**
+
+<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
+<code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 
 **🌱 I’m currently learning:**
-
-<code><a href="https://go.dev/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>  
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
-<code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
-
-
-
 
 <div align="center">
 
@@ -36,17 +47,6 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
-
 </div>
-
-
-
-
-
-
-
-
-**💬 Ask me about:**
   
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
