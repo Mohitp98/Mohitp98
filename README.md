@@ -61,7 +61,10 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
   
 <div align="center">
  
- <a href='https://free-hit-counters.net/'>Visitors Count</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=533165baf43b3a32eaf04adaf5f2e4c0d09ec576'></script>
+<a href='https://free-hit-counters.net/'>Visitors Count</a> 
+
+<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=533165baf43b3a32eaf04adaf5f2e4c0d09ec576'></script>
+
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/720605/t/2"></script>
 
 </div>
