@@ -59,4 +59,8 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 
 </div>
   
+<div align="center">
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
+
+</div>
