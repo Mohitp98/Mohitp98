@@ -48,6 +48,16 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
+  
+<div align="center">
+  
+![](https://github.com/Mohitp98/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Mohitp98/github-stats/blob/master/generated/languages.svg)
+
+</div>
+
+
+
 <div align="center">
 
 **📫 Reach me at:**<br>
@@ -58,7 +68,7 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
 </div>
-  
+
 <div align="center">
 
 [![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohitp98)](https://hits.seeyoufarm.com)
