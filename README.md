@@ -5,7 +5,7 @@ I am a software engineer from India :india:.
 </p>
 
 <p align="center">
-Opensource beliver! Linux enthusiast on the journey making life easier by creating utility tools.
+Opensource believer! Linux enthusiast on the journey making life easier by creating utility tools.
 </p>
 
 <p align="center">
