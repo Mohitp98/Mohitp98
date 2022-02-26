@@ -1,17 +1,7 @@
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ... ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
-I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Opensource beliver!.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
@@ -23,26 +13,29 @@ Software Engineer at <a href="https://www.infracloud.io/" target="_blank"><b>@in
 
 **🌱 Currently working on:**
 
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
+<code><a href="https://go.dev/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="35" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 **💬 Ask me about:**
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-007d9c?style=flat-square&logo=Go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-047adc?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-047adc?style=flat-square&logo=Kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-8040c9?style=flat-square&logo=Terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=Ansible&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=MongoDB&logoColor=white)
+
+![Pycharm](https://img.shields.io/badge/Pycharm-4dbb5f?style=flat-square&logo=Pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 
 <div align="center">
@@ -56,10 +49,9 @@ Software Engineer at <a href="https://www.infracloud.io/" target="_blank"><b>@in
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: Mohit Patil](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
-<a href="https://instagram.com/apparentlymohit" target="_blank"><img src="https://img.shields.io/badge/@apparentlymohit-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/apparentlymohit?style=social)](https://twitter.com/apparentlymohit)
-[![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp98/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apparentlymohit)
+[![Email](https://img.shields.io/badge/Email-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:mohit.in@yahoo.com)
 
 </div>
 
