@@ -9,7 +9,7 @@ Opensource believer! Linux enthusiast on the journey making life easier by creat
 </p>
 
 <p align="center">
-Fascinated about infinite space. Occupy Mars! :rocket:
+Fascinated about infinite space :rocket:
 </p>
 
 **💼 Currently working as:**
